@@ -1,6 +1,9 @@
+<!-- markdownlint-disable MD033 MD042-->
+
 # Hi there, I'm **Henrik Mårtensson Etverk**! 👋
 
 Full-time **information technology student** located in Sweden.
+
 ---
 
 ## **About me**
