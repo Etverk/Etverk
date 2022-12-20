@@ -9,8 +9,8 @@ Full-time **information technology student** located in Sweden.
 ## **About me**
 
 - 🔭 I’m currently working on breaking into the tech-industry.
-- 🌱 I’m learning Python.
-- 👯 I’m learning web-development (HTML, CSS, JS).
+- 🌱 I’m working in Python.
+- 👯 I’m doing web-development (HTML, CSS, JS).
 - ⚡ I’m looking for summer internships.
 
 ---
