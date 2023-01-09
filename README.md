@@ -11,6 +11,7 @@ Full-time **information technology student** located in Sweden.
 - 🔭 I’m currently working on breaking into the tech-industry.
 - 🌱 I’m working in Python.
 - 👯 I’m doing web-development (HTML, CSS, JS).
+- 🔭 I’m learning C.
 - ⚡ I’m looking for summer internships.
 
 ---
